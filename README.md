@@ -20,7 +20,7 @@ Label the following parts of the rule:
 
 ### Nitrous setup
 
-Open nitrous and paste the following link into your terminal:
+Open [nitrous.io](http://nitrous.io) and paste the following link into your terminal:
 
 ```
 cd workspace/www; git clone https://github.com/ScriptEdClaremontHS/lesson17.git;
