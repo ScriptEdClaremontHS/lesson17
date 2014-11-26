@@ -4,7 +4,7 @@
 
 ### Warm Up:
 
-First, copy the following CSS rule into your notebooks.
+First, copy the following CSS rule into your notebook.
 
 ```css
 h3 {
@@ -13,7 +13,7 @@ h3 {
 }
 ```
 
-Label the following parts of the rule:
+Then, label the following parts of the rule:
 * the selector
 * all properties
 * all values
